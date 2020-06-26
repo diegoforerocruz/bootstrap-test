@@ -5,9 +5,12 @@
 
 .row-content{
     margin:0px auto;
-    padding: 50px 0px 50px 0px;
+    padding: 50px 0px 50px 10px;
     border-bottom: 1px ridge;
     min-height: 400px;
+}
+.first-row-content{
+    margin:0px auto;
 }
 
 .footer{
@@ -28,3 +31,13 @@
     margin: 0px;
     color: #0f0f0f;
 }
+
+.body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512da8;;
+}
+
